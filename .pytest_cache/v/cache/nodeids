@@ -1,0 +1,7 @@
+[
+  "tests/test_pokemon.py::test_parametrize[id-36463]",
+  "tests/test_pokemon.py::test_parametrize[level-5]",
+  "tests/test_pokemon.py::test_parametrize[trainer_name-LiLu]",
+  "tests/test_pokemon.py::test_status_code",
+  "tests/test_pokemon.py::test_trainer_name"
+]
